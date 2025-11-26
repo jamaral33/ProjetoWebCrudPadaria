@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ncFlBHTreVs=",
+  "dgSpecHash": "h7ZlV0f73uI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2ds\\Downloads\\CrudASP-main\\CrudASP-main\\WebCrud\\WebCrud.csproj",
+  "projectFilePath": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\WebCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2ds\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\2ds\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",
