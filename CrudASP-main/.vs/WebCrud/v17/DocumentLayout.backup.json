@@ -1,38 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\",
+  "WorkspaceRootPath": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\projetopadaria\\crudasp-main\\webcrud\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\projetopadaria\\crudasp-main\\webcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\projetopadaria\\crudasp-main\\webcrud\\views\\produto\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\produto\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\projetopadaria\\crudasp-main\\webcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\projetopadaria\\crudasp-main\\webcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\projetopadaria\\crudasp-main\\webcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\projetopadaria\\crudasp-main\\webcrud\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\kanek\\onedrive\\desktop\\padariacriancafeliz\\crudasp-main\\webcrud\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\projetopadaria\\crudasp-main\\webcrud\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\kanek\\onedrive\\desktop\\padariacriancafeliz\\crudasp-main\\webcrud\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\kanek\\onedrive\\desktop\\padariacriancafeliz\\crudasp-main\\webcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\kanek\\onedrive\\desktop\\padariacriancafeliz\\crudasp-main\\webcrud\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\kanek\\onedrive\\desktop\\padariacriancafeliz\\crudasp-main\\webcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\kanek\\onedrive\\desktop\\padariacriancafeliz\\crudasp-main\\webcrud\\views\\produto\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\produto\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\kanek\\onedrive\\desktop\\padariacriancafeliz\\crudasp-main\\webcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\kanek\\onedrive\\desktop\\padariacriancafeliz\\crudasp-main\\webcrud\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\kanek\\onedrive\\desktop\\padariacriancafeliz\\crudasp-main\\webcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,25 +55,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Views\\Produto\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "WebCrud\\Views\\Produto\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Views\\Produto\\Cadastrar.cshtml",
+              "RelativeToolTip": "WebCrud\\Views\\Produto\\Cadastrar.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAnwCMAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T17:45:47.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebCrud\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebCrud\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-26T13:20:56.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "WebCrud\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\wwwroot\\css\\site.css",
               "RelativeToolTip": "WebCrud\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-11-26T12:27:45.237Z",
               "EditorCaption": ""
@@ -78,22 +95,22 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebCrud\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebCrud\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-19T13:09:07.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\appsettings.json",
               "RelativeDocumentMoniker": "WebCrud\\appsettings.json",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\appsettings.json",
               "RelativeToolTip": "WebCrud\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -102,39 +119,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\Views\\Produto\\Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Views\\Produto\\Editar.cshtml",
               "RelativeDocumentMoniker": "WebCrud\\Views\\Produto\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\Views\\Produto\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Views\\Produto\\Editar.cshtml",
               "RelativeToolTip": "WebCrud\\Views\\Produto\\Editar.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-22T14:34:51.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Listar.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\Views\\Produto\\Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Views\\Produto\\Listar.cshtml",
               "RelativeDocumentMoniker": "WebCrud\\Views\\Produto\\Listar.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\Views\\Produto\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Views\\Produto\\Listar.cshtml",
               "RelativeToolTip": "WebCrud\\Views\\Produto\\Listar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-22T13:59:39.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ProdutoController.cs",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\Controllers\\ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "WebCrud\\Controllers\\ProdutoController.cs",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "WebCrud\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAASwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T12:21:23.759Z",
               "EditorCaption": ""
@@ -143,9 +160,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\Models\\Produto.cs",
+              "DocumentMoniker": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "WebCrud\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\ProjetoPadaria\\CrudASP-main\\WebCrud\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\kanek\\OneDrive\\Desktop\\PadariaCriancaFeliz\\CrudASP-main\\WebCrud\\Models\\Produto.cs",
               "RelativeToolTip": "WebCrud\\Models\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

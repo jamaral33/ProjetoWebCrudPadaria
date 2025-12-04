@@ -99,6 +99,11 @@ namespace WebCrud.Controllers
         [HttpPost]
         public IActionResult Cadastrar(Produto produto)
         {
+            if (!ModelState.IsValid)
+            {
+                return View(produto);
+            }
+
             string? connectionString = _configuration.GetConnectionString("DefaultConnection");
             using var connection = new MySqlConnection(connectionString);
             connection.Open();
@@ -106,10 +111,11 @@ namespace WebCrud.Controllers
             string sql = "INSERT INTO produto (Prodnome,Proddescr) VALUES (@Prodnome, @Proddescr)";
             MySqlCommand command = new MySqlCommand(sql, connection);
             command.Parameters.AddWithValue("@Prodnome", produto.Prodnome);
-            command.Parameters.AddWithValue("@Proddescr", produto.Proddescr);
+            command.Parameters.AddWithValue("@Proddescr", produto.Proddescr ?? string.Empty);
             command.ExecuteNonQuery();
 
-            return RedirectToAction("Index", "Home");
+            TempData["SuccessMessage"] = "Produto cadastrado com sucesso.";
+            return RedirectToAction("Cadastrar");
         }
 
         public IActionResult Deletar(int id)
